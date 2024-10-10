@@ -1,0 +1,2 @@
+mimesis==11.0.0
+nbformat==5.10.4
